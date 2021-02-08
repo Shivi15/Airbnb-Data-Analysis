@@ -13,4 +13,4 @@ Analyze Airbnb Listings in the city of New York and make recommendations on Amen
 ### Datasets
 
 1. Please download the listings-summary.csv & reviews.csv datasets from http://insideairbnb.com/get-the-data.html
-2. unzip and copy into data folder
+
